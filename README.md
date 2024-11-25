@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi There👋, I'm M R Vyshnav..!</h1>
 
-<h3 align="center">A passionate Electronics Engineer and Partnerships Lead from India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"  alt="Indian Flag" width="30" height="15"/> </h3>
+<h3 align="center">A passionate Electronics Engineer, Web Dev and Partnerships Lead from India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"  alt="Indian Flag" width="30" height="15"/> </h3>
 
 <p align="center">Keen on leveraging my grasp of web-based application development 🌏, along with my expertise in MERN
 stack Development and code management, to make a valuable contribution in a professional setting.. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
@@ -40,11 +40,12 @@ stack Development and code management, to make a valuable contribution in a prof
 
 - 📫 How to reach me:
   <br/>
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/johnbyju/](https://www.linkedin.com/in/m-r-vyshnav-0a2470161/) &nbsp; 
+  [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/stonkyay) &nbsp;
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/m-r-vyshnav-0a2470161/) &nbsp; 
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />](mailto:vyshnavmuthukrishnan@gmail.com) &nbsp; 
   [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/loveyou.exe) 
   <br/>
-  <img src="https://camo.githubusercontent.com/b25e5594ef0cd200f0ca9c5d8a8f284d9381cf2086b008d47da306c2060e1b72/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667" height="25px"/>
+ 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -88,9 +89,9 @@ stack Development and code management, to make a valuable contribution in a prof
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnbyju\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryptonord\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=johnbyju&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cryptonord&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
 
@@ -100,7 +101,7 @@ stack Development and code management, to make a valuable contribution in a prof
 
 <h3 align="left">Activity:</h3>
 
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=johnbyju&custom_title=John's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=johnbyju&custom_title=Vyshnav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
