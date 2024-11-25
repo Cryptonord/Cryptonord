@@ -1,8 +1,8 @@
 
 
-<h1 align="center">Hi There👋, I'm Vyshnav..!</h1>
+<h1 align="center">Hi There👋, I'm M R Vyshnav..!</h1>
 
-<h3 align="center">A passionate Software Developer from India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"  alt="Indian Flag" width="30" height="15"/> </h3>
+<h3 align="center">A passionate Electronics Engineer and Partnerships Lead from India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"  alt="Indian Flag" width="30" height="15"/> </h3>
 
 <p align="center">Keen on leveraging my grasp of web-based application development 🌏, along with my expertise in MERN
 stack Development and code management, to make a valuable contribution in a professional setting.. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
@@ -34,17 +34,15 @@ stack Development and code management, to make a valuable contribution in a prof
  
 - 🔭 Here's my [portfolio](https://johnbyju.github.io/) 
 
-- 🌱 I’m currently learning DSA 
-
-- 👯 I am seeking a full-time job opportunity.
+- 🌱 I’m currently learning Cryptography 
 
 - 💬 Everyday is Learning
 
 - 📫 How to reach me:
   <br/>
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/johnbyju/) &nbsp; 
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />](mailto:johnbyju8@gmail.com) &nbsp; 
-  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/johnbyju14) 
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/johnbyju/](https://www.linkedin.com/in/m-r-vyshnav-0a2470161/) &nbsp; 
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />](mailto:vyshnavmuthukrishnan@gmail.com) &nbsp; 
+  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/loveyou.exe) 
   <br/>
   <img src="https://camo.githubusercontent.com/b25e5594ef0cd200f0ca9c5d8a8f284d9381cf2086b008d47da306c2060e1b72/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667" height="25px"/>
 
@@ -55,7 +53,7 @@ stack Development and code management, to make a valuable contribution in a prof
 <h3>Language</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,arduino,c"/>
 </p>
 <h3> Backend </h3>
 <p>
@@ -110,4 +108,4 @@ stack Development and code management, to make a valuable contribution in a prof
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
-<p align="right" > Created with 💜 by <a https://www.linkedin.com/in/johnbyju">Johnbyju</a></p>
+<p align="right" > Created with 💜 by <a https://www.linkedin.com/in/m-r-vyshnav-0a2470161/)">Vyshnav</a></p>
