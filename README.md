@@ -15,8 +15,8 @@ stack Development and code management, to make a valuable contribution in a prof
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="80" height="75" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="70" />
-   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
+   <img src="https://techstack-generator.vercel.app/rapsberrypi-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon"width ="80" height="70"/>
  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" />
@@ -32,7 +32,7 @@ stack Development and code management, to make a valuable contribution in a prof
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2999&pause=1000&color=2EC7F7&random=false&width=435&lines=Full+Stack+Developer;Front+End+Developer;Back+End+Developer" alt="Typing SVG" style="padding-left:12px;" />
 </a>
  
-- 🔭 Here's my [portfolio](https://johnbyju.github.io/) 
+- 🔭 Here's my portfolio 
 
 - 🌱 I’m currently learning Cryptography 
 
