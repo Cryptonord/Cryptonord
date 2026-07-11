@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi There👋, I'm M R Vyshnav..!</h1>
+<h1 align="center">Hi There👋, I'm Cryptonord..!</h1>
 
 <h3 align="center">A passionate Electronics Engineer, Web Dev and Partnerships Lead from India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"  alt="Indian Flag" width="30" height="15"/> </h3>
 
@@ -37,14 +37,5 @@ alt="Typing SVG" style="padding-left:12px;" />
 - 🌱 I’m currently learning Cryptography 
 
 - 💬 Everyday is Learning
-
-- 📫 How to reach me:
-  <br/>
-  [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/stonkyay) &nbsp;
- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/m-r-vyshnav-0a2470161/) &nbsp; 
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />](mailto:vyshnavmuthukrishnan@gmail.com) &nbsp; 
-  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/loveyou.exe) 
-  <br/>
- 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
